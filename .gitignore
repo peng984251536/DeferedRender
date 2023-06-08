@@ -31,3 +31,8 @@ sysinfo.txt
 /Library*
 /Assets/ProCore*
 /Temp*
+/Logs*
+/obj*
+/Packages*
+/ProjectSettings*
+/UserSettings*
